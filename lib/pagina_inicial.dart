@@ -39,7 +39,7 @@ class PantallaInicial extends StatelessWidget {
             fontSize: 25.0,
           ),
         ),
-        backgroundColor: Colors.purple,
+        backgroundColor: Color(0xffe59cd3),
         centerTitle: true,
       ),
       body: Padding(
